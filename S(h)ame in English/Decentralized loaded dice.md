@@ -35,3 +35,19 @@ In case of the existence of multiple diversely working applications, that split 
 There are 199 seats altogether in the single house parliament. 93 of these are distributed proportionally to the nationwide popular vote, which can't be anymore fair.
 
 Yet 106 come from 106 geographical municipalities in each of which, the popular vote is "rounded" up to 1 single person per district(!). This rounding isn't mathematical, it doesn't mean if nobody reached 50%, then the municupality sent no representatives at all. Instead it works so, that the owner of the largest number of votes always wins, irrespective of whether s/he only possesses the largest minority, if all the others are so fragmented, that each and every one of them won even less. This is where second round voting should come in. In a second round, where only the 2 strongest first round candidates competed, any strongest minority's candidate stood a chance to loose. Yet this second round does not exist, and thus Orban has always won nearly all the 106 "rounded" districts, eversince he changed the election law in 2011, at the very first opportunity after he gained his 1st supermajority in the previous, 2 rounded election system in 2010, that was considered more democratic.
+
+## The role of 71 municipalities...
+
+...that any party has to fill obligatorily in order to be granted a position on the nationwide list.
+
+If each party is to have its own list, let there be two for simplicity's sake: a left-wing and a right-wing opposition coalition (just so the coalition is not so slimy...). So, if two different parties with independent lists want to run in 71 districts by default, with a total of 106 districts available, they can only take the largest district, close to two-thirds, if they run their independent candidates against Fidesz in 35-35 districts, while in 36 - "overlapping" - districts they also run against each other, thus sharply dividing the opposition voter camp in this latter group of districts. And in those districts where the opposition camp is almost evenly split, Fidesz is largely in the lead*.
+
+So let's calculate what this would mean if the opposition had just twice as many voters as the Fidesz camp, i.e. it would have to win exactly 2/3 of the parliamentary majority: 2/3 of the 93 national list seats are 62; and of the 106 districts, the opposition can take 70*, for a total of 132.
+
+Whereas a 2/3 majority starts from 133(!).
+
+(*) That only holds if in districts where at least 3 candidates are competing: 1 Fidesz, 1 left opposition and 1 right opposition; and if the opposition voter camp is split about 50%, so that the candidates would get about 1/3 - 1/3 - 1/3 of the vote, plus a few more percent taken away from the opposition by a couple of fake and joke parties, while Fidesz voters would cast 1/3 of their votes in a disciplined manner. Alternatively, it can be assumed that the opposition will split up the strongest opposition districts to run 1 to 1 against Fidesz in them, and Fidesz will naturally be stronger in the remaining double opposition districts.
+
+Another notable problem is if the opposition parties want districting that takes into account their real social support. For in order to bargain some districts to each other without reducing the number of candidates per party below the required number (71 in the '22 election), they would have to run against each other in more districts. In other words, the need for a more precise representation of public support is also a mill for Fidesz.
+
+In the case of three or more opposition parties, Fidesz, with its 1/3 of the voter base, would almost unconditionally win the 4 or more districts, of which more and more are needed as the number of parties or groups increases.
