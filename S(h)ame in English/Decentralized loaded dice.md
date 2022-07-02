@@ -28,3 +28,10 @@ Of course the entire offline distributed process is very sensitive to
 As stated the process works offline, doesn't require any collection of voters' data and doesn't require more centralized coordination than named in the last list.
 
 In case of the existence of multiple diversely working applications, that split oppositional voters' influence without coordination on which to use, the _fallback plan_ is to vote to the _first_ relevant oppositional candidate in the voting district in _alphabetical order_...
+
+
+## The hungarian election system
+
+There are 199 seats altogether in the single house parliament. 93 of these are distributed proportionally to the nationwide popular vote, which can't be anymore fair.
+
+Yet 106 come from 106 geographical municipalities in each of which, the popular vote is "rounded" up to 1 single person per district(!). This rounding isn't mathematical, it doesn't mean if nobody reached 50%, then the municupality sent no representatives at all. Instead it works so, that the owner of the largest number of votes always wins, irrespective of whether s/he only possesses the largest minority, if all the others are so fragmented, that each and every one of them won even less. This is where second round voting should come in. In a second round, where only the 2 strongest first round candidates competed, any strongest minority's candidate stood a chance to loose. Yet this second round does not exist, and thus Orban has always won nearly all the 106 "rounded" districts, eversince he changed the election law in 2011, at the very first opportunity after he gained his 1st supermajority in the previous, 2 rounded election system in 2010, that was considered more democratic.
